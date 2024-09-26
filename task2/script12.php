@@ -1,6 +1,6 @@
 <?php
 $string1 = "Hello, ";
-$string2 = "Dharvi";
+$string2 = "Dhruvi";
 
 $combinedString = $string1 . $string2;
 
